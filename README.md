@@ -25,15 +25,24 @@ Outils : Git, GitHub, Jupyter Notebook, VS Code
 Méthodologies : Agile, nettoyage de données, résolution de problèmes
 
 🛠 Projets
+  
+Commentaire d'écoute musicale : https://n1chaos.github.io/Commentaire-Ecoute-082025/
+Application interactive pour aider les élèves à rédiger et enregistrer leur commentaire d’écoute musicale :
 
-[Nom du Projet Fullstack]Une application web [description brève, ex. : gestion de tâches avec React et Node.js].Lien vers le repo | Démo live (Ajoute les liens)  
+- Sélection de vocabulaire guidée
+- Définition + illustration sonore/visuelle
+- Enregistrement vocal intégré
+- Export .txt ou .wav
+- Facilite la collecte des productions par l’enseignant
+
+💡 Un outil pensé pour favoriser l’autonomie des élèves tout en simplifiant l’évaluation.
+🛠️ Réalisé avec HTML, CSS, JavaScript & Bootstrap
+
 [Nom du Projet Data]Analyse de données [ex. : ventes e-commerce avec Python et Tableau].Lien vers le repo | Notebook (Ajoute les liens)  
-[Projet Mixte]Un dashboard interactif combinant fullstack et data [ex. : visualisation d'API avec React].Lien vers le repo | Démo live (Ajoute les liens)
+
 
 📫 Contact
 
-LinkedIn : Lien LinkedIn (Ajoute ton profil)  
-Email : [ton.email@example.com]  
-Portfolio : Lien si applicable
+LinkedIn : https://www.linkedin.com/public-profile/settings
 
-Je suis motivé pour contribuer à des projets IT innovants. Consultez mes repos pour voir mon travail, et n'hésitez pas à me contacter pour collaborer !
+Je suis motivé pour contribuer à des projets IT innovants. N'hésitez pas à me contacter pour collaborer !
