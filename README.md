@@ -18,13 +18,13 @@ Compétences : Advanced Analytics, Interviewing Skills, Data Analysis, Data Ethi
 
 💻 Compétences techniques
 
-Frontend : HTML, CSS, JavaScript, React  
-Backend : Node.js, Express, MongoDB  
-Data Analysis : Python, SQL
-Python Packages: numpy, Pandas, Scipy, seaborn, Matplotlib, statsmodels, scikit-learn
-Machine Learning Models: regression (linear, logistic), Naive Bayes, decision trees, random forest, AdaBoost, XGBoost
-Outils : Git, GitHub, Jupyter Notebook, VS Code  
-Méthodologies : Agile, nettoyage de données, résolution de problèmes
+- Frontend : HTML, CSS, JavaScript, React  
+- Backend : Node.js, Express, MongoDB  
+- Data Analysis : Python, SQL
+- Python Packages: numpy, Pandas, Scipy, seaborn, Matplotlib, statsmodels, scikit-learn
+- Machine Learning Models: regression (linear, logistic), Naive Bayes, decision trees, random forest, AdaBoost, XGBoost
+- Outils : Git, GitHub, Jupyter Notebook, VS Code  
+- Méthodologies : Agile, nettoyage de données, résolution de problèmes
 
 🛠 Projets
   
