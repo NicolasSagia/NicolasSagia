@@ -5,12 +5,12 @@ Je suis développeur Fullstack et Data Analyst en reconversion professionnelle, 
 
 🎓 Certifications
 
-IBM Full-Stack Developer Professional Certificate (Coursera, 2024)
+- IBM Full-Stack Developer Professional Certificate (Coursera, 2024)
 Lien vers le certificat: https://coursera.org/share/7e7ba926b23e5e464680b404a3d1fd68
 
 Compétences : Prompt Engineering, Kubernetes, Cloud Services, Cloud-Native Computing, Server Side, React Redux, Generative AI, Cloud Computing Architecture, Git (Version Control System), Istio, Full-Stack Web Development, Engineering Software
 
-Google Data Analyst Professional Certificate (Coursera, 2025)
+- Google Data Analyst Professional Certificate (Coursera, 2025)
 Lien vers le certificat: https://coursera.org/share/9ba5dc2f4fc15a6795656aaabb66f922
 
 Compétences : Advanced Analytics, Interviewing Skills, Data Analysis, Data Ethics, Descriptive Statistics, Data Storytelling, Regression Analysis, Tableau Software, Statistical Hypothesis Testing, Machine Learning, Data Presentation, Sampling (Statistics)
