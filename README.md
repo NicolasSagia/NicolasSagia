@@ -40,7 +40,10 @@ Application interactive pour aider les élèves à rédiger et enregistrer leur 
 💡 Un outil pensé pour favoriser l’autonomie des élèves tout en simplifiant l’évaluation.
 🛠️ Réalisé avec HTML, CSS, JavaScript & Bootstrap
 
-[Nom du Projet Data]Analyse de données [ex. : ventes e-commerce avec Python et Tableau].Lien vers le repo | Notebook (Ajoute les liens)  
+Analyse de Données :
+- Classification des vidéos TikTok : Utilisation de Statsmodels et Scikit-learn pour prédire si les vidéos présentaient des affirmations ou des opinions, afin d'améliorer le processus de triage pour la révision humaine.
+- Classification des données Waze : Construction d'un arbre de décision, d'une forêt aléatoire et de XGBoost pour prédire le taux de désabonnement des utilisateurs de Waze.
+- Prédiction des tarifs de taxi : Utilisation de la régression multiple pour prédire les tarifs de taxi, données intégrées à une suite de modèles pour optimiser les revenus de la New York Taxi and Limousine Commission et de ses chauffeurs.
 
 
 📫 Contact
